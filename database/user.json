@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "username": "Mukhlis",
+    "password": "$2b$12$6n.CqYgGaJD5lzQwSJ9DBes4ANIMbofOCMxOJMCljTNdiFmx2VisW",
+    "money": 200000
+  },
+  {
+    "id": 2,
+    "username": "Muslimaxon",
+    "password": "$2b$12$2YVAwQ9id8dwsjN4D2vDMe8LQA.kdKxWtTmWMghdcxfu/I4d81Uyy",
+    "money": 100000
+  },
+  {
+    "id": 3,
+    "username": "Sumayya",
+    "password": "$2b$12$QWHTsvUfBgfG7dDLSB1DGOtE1BpY3a1fvNjBRNoTXK3W68LppYdwu",
+    "money": 300000
+  },
+  {
+    "id": 4,
+    "username": "Xadichaxon",
+    "password": "$2b$12$/FXzMNj4WaWcbJBgIF6Z/OwrZ5qbNvo8VJYAxhd2GZj57aDSw0kzO",
+    "money": 12000000000
+  },
+  {
+    "id": 5,
+    "username": "Alina",
+    "password": "$2b$12$CsGkI/WX5sSf8dxp21tzo.XYvD3Pl/v1mldNM3QdkoYi0tO/VDQKu",
+    "money": 30000000000
+  },
+  {
+    "id": 6,
+    "username": "Moxina",
+    "password": "$2b$12$mRneakk5ZDH4z9pHUdG6aeAmECOSpJHi/xLoalVtKu5dA.Cy73B4u",
+    "money": 201000
+  }
+]
